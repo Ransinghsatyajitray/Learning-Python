@@ -1,0 +1,35 @@
+Python OOPs
+readabiity to high extend
+support number of library
+To access Python Kernel, IDE required
+
+Anaconda: entire suite of modules available
+
+Anaconda Prompt > Navigate to set working directory
+ 	> deploy the IDE
+
+*We see a browser based IDE with local files not part of IDE
+
+Cell Type: Markdown call -> Text , non executable
+
+
+Key board short cut:
+
+Shift + Tab > description
+Tab key / Help > different possible
+
+Numpy: multi dimentional array handling
+Scipy: statistical pkg
+matplotlib: graph
+pandas
+
+Not readily available pkg: go to terminal in run, 
+		eg: conda install plotly
+		    if pkg is showing not available then go to anaconda to see the code to download that pkg
+      		    using this plotly would get downloaded
+
+Sub modules are downloaded with Modules
+
+
+Python application beyond data science
+
