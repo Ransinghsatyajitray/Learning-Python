@@ -39,6 +39,11 @@ Object oriented programming: python better
 if statistic not the only focus: python
 
 
+To open Jupyter notebook: 
+click on the jupyter notebook icon or open the anaconda prompt and write Jupyter notebook
+donot close the anaconda prompt/cmd while coding in th Jupyter notebook
+
+
 Installation basic:
 anaconda: entire suite of installer
 Seeing the working directory:
@@ -66,6 +71,30 @@ Open new prompt: conda install XXXpackage_nameXXXXX
 installation syntax might change.
 
 
+*in python we write immaginary part as j (not i)
+
+>Check:How to write multi-line string 
+
+Data-Structures in Python: Tuple, List, dictionary, Set
+
+Tuple is list with different data type data , written within ()
+Tuple are immutable (they cannot be changed once written)
+
+List are muttable, written within square brackets
+
+pop function is used to see the last element of a list.
+
+>Dictionary is an unordered collection of key-value pairs enclosed with {}
+
+for loop is for iterating over a sequence.
+function is a block of code which perform a specific task.
+
+np.vstack([n1,n1])
+np.hstack
+np.column_stack
 
 
+
+
+					
 
