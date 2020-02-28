@@ -27,9 +27,45 @@ Not readily available pkg: go to terminal in run,
 		eg: conda install plotly
 		    if pkg is showing not available then go to anaconda to see the code to download that pkg
       		    using this plotly would get downloaded
+		    
 
 Sub modules are downloaded with Modules
 
 
 Python application beyond data science
+
+Primary focus data analysis: python and R are alike
+Object oriented programming: python better
+if statistic not the only focus: python
+
+
+Installation basic:
+anaconda: entire suite of installer
+Seeing the working directory:
+%cd  or pwd (print working directory)
+
+
+Setting new working directory:
+In the anaconda command prompt: cd XXXXXXXXXXXXpath_of_the_working_directoryXXXXXXXXXXXXXXXXXXXX
+then write: dir
+then write: Jupyter notebook
+then this code will run an the Jupyter note book will open/launch with the new path.
+
+
+Q. Why are not all directory being provided by default in the directory list in the Jupyter notebook?
+A. Its due to security reason.
+
+
+See the description of functions: shift + tab
+
+Autofill: tab
+
+Installing new package: close the current prompt
+Open new prompt: conda install XXXpackage_nameXXXXX
+> if this fails then go to anaconda and check the command to install the same
+installation syntax might change.
+
+
+
+
 
